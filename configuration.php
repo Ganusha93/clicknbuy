@@ -32,9 +32,9 @@ class JConfig
 
 	/* Database Settings */
 	public $dbtype = 'mysqli';               // Normally mysqli
-	public $host = 'localhost:3306';              // This is normally set to localhost
-	public $user = 'bn_joomla';                       // DB username
-	public $password = 'cdf5cd928a';                   // DB password
+	public $host = 'us-cdbr-azure-southcentral-f.cloudapp.net';              // This is normally set to localhost
+	public $user = 'b4a5f0730e772f';                       // DB username
+	public $password = '91a3383a';                   // DB password
 	public $db = 'bitnami_joomla';                         // DB database name
 	public $dbprefix = 'jos_';               // Do not change unless you need to!
 
